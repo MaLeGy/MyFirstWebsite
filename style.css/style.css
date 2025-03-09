@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+    background-color: lightblue; /* Change to any color */
+
+    
+    background-image: url('background.jpg'); /* Replace with your image file */
+    background-size: cover; /* Adjusts image to cover the entire screen */
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+
+    
+
+
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+
+    
+    
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
